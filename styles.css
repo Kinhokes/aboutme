@@ -1,0 +1,81 @@
+/* about me */
+.about {
+  text-align: center;
+  border-top: 5px dotted;
+}
+/* main part */
+body {
+  background-color: green;
+  font-family: 'roboto';
+}
+/* hello */
+.hello {
+text-align: center;
+  
+}
+/* hobby */
+.hobby {
+  text-align: center;
+}
+/* where i came form */
+.where {
+  text-align: center;
+  border-top: solid;
+}
+/* came */
+.came {
+  text-align: center;
+  border-top: solid;
+}
+
+h4 {
+  font-size: large;
+}
+/* why i joined */
+.why {
+  text-align: center;
+  border-top: solid;
+}
+/* program */
+.why2 {
+  font-size: xx-small;
+}
+/* what */
+.what {
+  border-top: solid;
+  text-align: center;
+}
+
+.like {
+  border-bottom: solid;
+ color: rgb(0, 0, 0); 
+ text-align: center;
+}
+
+.thank {
+  text-align: center;
+}
+.foot {
+  
+}
+/* end of the main part */
+.menu1 {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 40%;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.aim {
+  
+}
